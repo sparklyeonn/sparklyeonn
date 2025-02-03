@@ -10,7 +10,7 @@ Desde niña me vi interesada en el mundo de la tecnología y gracias a diferente
 
 Actualmente estoy empezando una pasantía como parte del equipo de desarrollo de software en BUFA para empezar mi experiencia laboral. Me gustan mucho las áreas de ciencia de datos y en el caso de programación, el área de Front-End ya que soy una persona muy visual. 
 
-- Lenguajes: JavaScript, TypeScript Python, SQL y Java.
+- Lenguajes: JavaScript, TypeScript, Python, SQL y Java.
 - Uso de frameworks, Figma, API's y bases de datos.
 - Con mucha disposición y disponibilidad para aprender cada vez mas.
 
