@@ -4,7 +4,7 @@ Constanza González - Estudiante de Ing en Informática y Desarrolladora Fullsta
 
 ## Un poquito sobre quien soy 🩷
 
-Desde niña me vi interesada en el mundo de la tecnología y gracias a diferentes programas **STEM** para mujeres me vi completamente dentro del área 📖. En 2022 incursé en mi primera carrera online y saqué adelante el titulo de Desarrolladora FullStack en JS. He sido parte de Technovation Girls como alumna y actualmente como mentora y también fui (en su tiempo) la persona mas joven en tener mi título de Rocketbot a mis 15 años en 2020.
+Desde niña me vi interesada en el mundo de la tecnología y gracias a diferentes programas **STEM** para mujeres me vi completamente dentro del área 📖. En 2022 incursé en mi primera carrera online y saqué adelante el titulo de Desarrolladora FullStack en JS. He sido parte de Technovation Girls como alumna y actualmente como mentora y también fui (en su tiempo) la persona más joven en tener mi título de Rocketbot a mis 15 años en 2020.
 
 ## Habilidades 🧠
 
@@ -12,7 +12,7 @@ Actualmente estoy empezando una pasantía como parte del equipo de desarrollo de
 
 - Lenguajes: JavaScript, TypeScript, Python, SQL y Java.
 - Uso de frameworks, Figma, API's y bases de datos.
-- Con mucha disposición y disponibilidad para aprender cada vez mas.
+- Con mucha disposición y disponibilidad para aprender cada vez más.
 
 ## A futuro 👩🏻‍💻
 
