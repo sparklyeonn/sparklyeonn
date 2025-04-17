@@ -12,6 +12,7 @@ Actualmente estoy empezando una pasantía como parte del equipo de desarrollo de
 
 - Lenguajes: JavaScript, TypeScript, Python, SQL y Java.
 - Uso de frameworks, Figma, API's y bases de datos.
+- Automatización de procesos repetitivos con RPA.
 - Con mucha disposición y disponibilidad para aprender cada vez más.
 
 ## A futuro 👩🏻‍💻
