@@ -17,7 +17,5 @@ Actualmente estoy empezando una pasantía como parte del equipo de desarrollo de
 
 ## A futuro 👩🏻‍💻
 
-Como siempre se aconseja, nunca hay que parar de aprender y que así sea para ser mejores cada día.
-
-> "Una computadora merecería ser considerada inteligente si pudiera engañar a un ser humano para que crea que es un ser humano."  
-> — Alan Turing
+> 💬 **"Las niñas están interesadas en la ciencia. Lo que necesitan son modelos a seguir."**  
+> — *Katherine Johnson*
