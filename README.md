@@ -15,7 +15,7 @@ Actualmente estoy empezando una pasantía como parte del equipo de desarrollo de
 - Automatización de procesos repetitivos con RPA.
 - Con mucha disposición y disponibilidad para aprender cada vez más.
 
-## A futuro 👩🏻‍💻
+## 👩🏻‍💻
 
 > 💬 **"Las niñas están interesadas en la ciencia. Lo que necesitan son modelos a seguir."**  
 > — *Katherine Johnson*
