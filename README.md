@@ -8,7 +8,7 @@ Desde niña me vi interesada en el mundo de la tecnología y gracias a diferente
 
 ## Habilidades 🧠
 
-Actualmente estoy trabajando como Desarrolladora Fullstack en Plantech. Esta experiencia laboral me ha ayudado con gestión de proyectos, expandir mis conocimientos en el área, trabajar con variados lenguajes de programación y conocer más sobre distintas partes que conforman una empresa informática.
+Mi ultima experiencia laboral fue como Desarrolladora Fullstack en Plantech. Esta experiencia laboral me ayudó con la gestión de proyectos, expandir mis conocimientos en el área, trabajar con variados lenguajes de programación y conocer más sobre distintas partes que conforman una empresa informática.
 
 - Lenguajes: JavaScript, TypeScript, Python, SQL, Java y Data.
 - Uso de frameworks, Figma, API's y bases de datos.
